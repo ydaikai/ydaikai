@@ -1,3 +1,21 @@
+# Hello!!! I'm ydaikai
+
+UTokyo Faculty of Economics B3
+
+<p align="left">
+  <a href="https://github.com/inaridiy/inaridiy/">
+    <img src="https://komarev.com/ghpvc/?username=ydaikai" alt="ydaikai" />
+  </a>
+  <a href="http://twitter.com/iammagnetts">
+    <img height="20" src="https://img.shields.io/twitter/follow/iammagnetts?label=Twitter&logo=twitter&style=flat" />
+  </a>
+    <!--
+  <a href="https://github.com/ydaikai">
+    <img height="20" src="https://img.shields.io/github/followers/ydaikai?label=follow&logo=github&style=flat" />
+    -->
+  </a>
+  <a href="https://wakatime.com/@e093a6d3-6b9e-401d-8ef0-2fd7035535cd"><img src="https://wakatime.com/badge/user/e093a6d3-6b9e-401d-8ef0-2fd7035535cd.svg" alt="Total time coded since Oct 1 2022" /></a>
+</p>
 ![shiba](./profile-3d-contrib/profile-night-green.svg)
 
 <p align="left">
