@@ -16,7 +16,7 @@ UTokyo Faculty of Economics B3
   </a>
   <a href="https://wakatime.com/@e093a6d3-6b9e-401d-8ef0-2fd7035535cd"><img src="https://wakatime.com/badge/user/e093a6d3-6b9e-401d-8ef0-2fd7035535cd.svg" alt="Total time coded since Oct 1 2022" /></a>
 </p>
-![shiba](./profile-3d-contrib/profile-night-green.svg)
+<!-- ![shiba](./profile-3d-contrib/profile-night-green.svg) -->
 
 <p align="left">
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydaikai&layout=compact&show_icons=true&theme=vue-dark" />
