@@ -1,12 +1,8 @@
-
 ![shiba](./profile-3d-contrib/profile-night-green.svg)
 
 <p align="left">
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydaikai&layout=compact&show_icons=true&theme=vue-dark" />
     <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ydaikai&theme=vue-dark&show_icons=true" />
-</p>
-
-<p align="left">
 <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ydaikai&theme=nord&column=7" />
 </p>
 
