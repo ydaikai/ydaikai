@@ -3,11 +3,11 @@
 UTokyo Faculty of Economics B3
 
 <p align="left">
-  <a href="https://github.com/inaridiy/inaridiy/">
+  <a href="https://github.com/ydaikai/ydaikai">
     <img src="https://komarev.com/ghpvc/?username=ydaikai" alt="ydaikai" />
   </a>
   <a href="http://twitter.com/iammagnetts">
-    <img height="20" src="https://img.shields.io/twitter/follow/iammagnetts?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/iammagnetts?label=follow&logo=twitter&style=flat" />
   </a>
     <!--
   <a href="https://github.com/ydaikai">
