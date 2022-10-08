@@ -42,6 +42,7 @@ console.log(calculateTax(10_000, 2022));
 // };
 
 // employee.name = 'Mosh';
+// For test
 
 type Employee = {
 	readonly id: number,
