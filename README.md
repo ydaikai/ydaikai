@@ -1,6 +1,6 @@
 # Hello!! I'm ydaikai 👋🏽
 
-UTokyo Faculty of Economics B3
+UTokyo Faculty of Economics `B3`. My GPG key is `4DCD7A90332C1812`.
 
 <p align="left">
   <a href="https://github.com/ydaikai/ydaikai">
