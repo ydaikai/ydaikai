@@ -6,7 +6,7 @@ UTokyo Faculty of Economics `B3`. My GPG key is `4DCD7A90332C1812`.
   <a href="https://github.com/ydaikai/ydaikai">
     <img src="https://komarev.com/ghpvc/?username=ydaikai" alt="ydaikai" />
   </a>
-  <a href="http://twitter.com/iammagnetts">
+  <a href="http://twitter.com/0xdaikai">
     <img height="20" src="https://img.shields.io/twitter/follow/iammagnetts?label=follow&logo=twitter&style=flat" />
   </a>
   <a href="https://wakatime.com/@e093a6d3-6b9e-401d-8ef0-2fd7035535cd"><img src="https://wakatime.com/badge/user/e093a6d3-6b9e-401d-8ef0-2fd7035535cd.svg" alt="Total time coded since Oct 1 2022" /></a>
